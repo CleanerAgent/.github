@@ -9,3 +9,6 @@ Created by the same maintainers behind [Memory Forensics Library](https://github
 [Website](https://cleaneragent.vercel.app/) · [Documentation](https://cleaneragent.vercel.app/documentation)
 
 © 2026 Cleaner Agent — MIT License
+
+This project is currently paused due to infrastructure constraints.
+Core architecture and GitHub App integration are complete.
